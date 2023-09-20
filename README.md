@@ -15,7 +15,7 @@
 4. Data on the number and density of the employees
 5. Location of all items
 
-##Possible Solutions
+## Possible Solutions
 
 ### - Computer Vision
 step 1. detecting high/low risk zones (using the location of the cameras)
