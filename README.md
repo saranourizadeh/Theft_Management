@@ -19,10 +19,15 @@
 
 ### - Computer Vision
 step 1. detecting high/low risk zones (using the location of the cameras)
+
 step 2. detect the location of most stolen items
+
 step 3. analysing on theft frequency by time (day of the week)
+
 step 4. labeling the existing visual data
+
 step 5. training and testing the prototype of the first model
+
 step 6. testing on real time images
 
 if the testing phase fail:
@@ -32,5 +37,22 @@ finding the reason of the faulty outcome
   ...
 
 ### - Wight detection
-step 1. equip the shelves and the cart to a scale
-step 2. 
+
+each customer has a specific shopping cart with a connected tag. each tag should connect to shelves to detect when  an item is removed from a shelf.
+
+step 1. Equip the shelves and the shopping cart to a scale
+
+step 2. Add a tag to the shopping cart
+
+step 3. Software development to raise an alarm in case of not adding items after a limited time that it is removed from the shelf.
+
+step 4. Testing functionality of software
+
+step 5. testing prototype on a large scale
+
+step 6. 
+
+
+cost of solution:
+
+
