@@ -61,6 +61,8 @@ it depends on:
 4. servers
 5. scales
 6. development of a system
-7. test
+7. testng
+8. number of people we need to do this project
+9. 
    
 
