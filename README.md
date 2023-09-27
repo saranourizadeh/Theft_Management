@@ -18,19 +18,19 @@
 ## Possible Solutions
 
 ### - Computer Vision
-step 1. detecting high/low risk zones (using the location of the cameras)
+step 1. Detecting high/low-risk zones (using the location of the cameras)
 
-step 2. detect the location of most stolen items
+step 2. Detect the location of most stolen items
 
-step 3. analysing on theft frequency by time (day of the week)
+step 3. Analyzing on theft frequency by time (day of the week)
 
-step 4. labeling the existing visual data
+step 4. Labeling the existing visual data
 
 step 5. training and testing the prototype of the first model
 
-step 6. testing on real time images
+step 6. Testing on real-time images
 
-if the testing phase fail:
+if the testing phase fails:
 finding the reason of the faulty outcome
   get more data
   make the real-time detection faster
@@ -52,7 +52,15 @@ step 5. testing prototype on a large scale
 
 step 6. 
 
+## Cost of Solution
 
-cost of solution:
-
+it depends on:
+1. cameras price
+2. supermarket's size
+3. supermarket's map
+4. servers
+5. scales
+6. development of a system
+7. test
+   
 
