@@ -11,7 +11,7 @@
 
 1. Location of the cameras
 2. The data on stolen items
-3. Info about stolen items
+3. Info about already stolen items
 4. Data on the number and density of the employees
 5. Location of all items
 
